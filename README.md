@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tonejit
-- 👀 I’m interested in web app development
+- 👀 I’m interested in EdTech and do this through web app and software development 
 - 🌱 I’m currently learning full stack web design and development with NodeJs
-- 💞️ I’m looking to collaborate on web development projects
+- 💞️ I’m looking to collaborate on Edtech projects
 - 📫 How to reach me - by email tonejitofik@gmail.com
 
 <!---
